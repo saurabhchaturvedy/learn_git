@@ -1,1 +1,8 @@
-hello ...kdkk..fjff.k...coronavirus.2020.fjfjfjjf..jfjkfk.hgjgjjg....from feature2 ..coming in 
+hello ...kdkk..fjff.k...coronavirus.2020.fjfjfjjf..jfjkfk.hgjgjjg....from feature2 ..coming in
+
+IMPORTANT GIT COMMANDS
++++++++++++++++++++++
+git push origin HEAD:feature2
+git remote update origin --prune
+git rebase -i HEAD~4
+git push origin master -f
